@@ -1,0 +1,18 @@
+[book]
+authors = ["João Kitajima"]
+language = "pt-BR"
+multilingual = false
+src = "src"
+title = "Aprendendo Zig"
+description = "Tradução do livro original publicado por Karl Seguin"
+
+[output.html]
+git-repository-url = "https://github.com/jkitajima/learning-zig-karlseguin"
+git-repository-icon = "fa-github"
+
+[output.html.print]
+enable = true    # include support for printable output
+page-break = true # insert page-break after each chapter
+
+[output.html.search]
+enable = true
