@@ -1,4 +1,4 @@
-# Summary
+# Sumário
 
 - [Índice](./00-index.md)
 - [Visão Geral da Linguagem - Parte 1](./01-language_overview_part_1.md)
