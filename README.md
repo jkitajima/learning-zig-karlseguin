@@ -1,7 +1,7 @@
 # Aprendendo Zig
 
-Este repositório contém os arquivos de tradução do livro "Learning Zig", escrito por [Karl Seguin](https://github.com/karlseguin).
-
+Este repositório contém os arquivos de tradução do livro "Learning Zig", escrito por [Karl Seguin](https://github.com/karlseguin)
+> This repository contains the translation files of the book "Learning Zig," written by Karl Seguin
 
 
 ## Versão original
